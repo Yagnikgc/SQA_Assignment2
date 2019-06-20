@@ -1,0 +1,7 @@
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\SQA_Assignment2\bin\Debug\SQA_Assignment2.exe.config
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\SQA_Assignment2\bin\Debug\SQA_Assignment2.exe
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\SQA_Assignment2\bin\Debug\SQA_Assignment2.pdb
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\SQA_Assignment2\obj\Debug\SQA_Assignment2.csprojAssemblyReference.cache
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\SQA_Assignment2\obj\Debug\SQA_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\SQA_Assignment2\obj\Debug\SQA_Assignment2.exe
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\SQA_Assignment2\obj\Debug\SQA_Assignment2.pdb
