@@ -1,0 +1,13 @@
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\bin\Debug\TestProject.dll
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\bin\Debug\TestProject.pdb
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\bin\Debug\nunit.framework.dll
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\bin\Debug\SQA_Assignment2.exe
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\bin\Debug\SQA_Assignment2.pdb
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\bin\Debug\SQA_Assignment2.exe.config
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\bin\Debug\nunit.framework.pdb
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\bin\Debug\nunit.framework.xml
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\obj\Debug\TestProject.dll
+C:\Users\yagni\OneDrive\Documents\Sem 2\SQA\SQA_Assignment2\TestProject\obj\Debug\TestProject.pdb
