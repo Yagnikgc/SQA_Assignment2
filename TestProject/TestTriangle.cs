@@ -75,6 +75,15 @@ namespace TestProject
             Assert.AreEqual(ans, validate);
         }
         [Test]
+        public void TestIsNotTriangle()
+        {
+            // validate that it cannot form Triangle
+            int sideA = 90, sideB = 40, sideC = 40;
+            bool ans = TriangleSolver.IsTriangle(sideA, sideB, sideC);
+            bool validate = (sideA + sideB <= sideC || sideA + sideC <= sideB || sideB + sideC <= sideA) ? false : true;
+            Assert.AreEqual(ans, validate);
+        }
+        [Test]
         public void TestIsEquilateral()
         {
             // validate that it is Equilateral Triangle
